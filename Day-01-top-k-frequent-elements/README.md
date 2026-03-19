@@ -44,5 +44,5 @@ Simple patterns like frequency counting are widely used in:
 
 ## 📌 Files
 
-- `notebook.ipynb` → Step-by-step learning
--  Add solution.py
+- `notebook.ipynb` → Step-by-step learning  
+- `solution.py` → Clean implementation  
