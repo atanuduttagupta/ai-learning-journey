@@ -1,0 +1,8 @@
+conda create -n nlp python=3.11 -y
+conda activate nlp
+
+pip install torch transformers sentencepiece accelerate notebook ipykernel
+
+python -m ipykernel install --user --name nlp --display-name "Python (NLP)"
+
+jupyter lab
